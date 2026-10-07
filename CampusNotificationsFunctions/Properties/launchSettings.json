@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CampusNotificationsFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7214",
+      "launchBrowser": false
+    }
+  }
+}
